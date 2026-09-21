@@ -50,6 +50,8 @@ SQL and software development skills while building practical projects.
 - NEXA-AI Humanoid Robot
 - Stable flight control and kalman filtered sensor implementation on Drone
 - React Nodejs based Chatroom App
+- Docmind-chat with PDF
+- JobTrack-track applied jobs and also the stage of the application along with resume analyzer all at one place
 - More projects coming soon
 
 ## 🎯 Career Goal

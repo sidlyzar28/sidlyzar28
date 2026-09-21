@@ -62,5 +62,5 @@ projects, and grow as a software developer.
 
 - LinkedIn: https://www.linkedin.com/in/sidchak28/
 
-![](https://komarev.com/ghpvc/?username=sidlyzar28&color=green)
+
   
